@@ -57,6 +57,6 @@ cd skybrisk
 
 ## Progress
 
-- [x] Month 1 completed
-- [x] Month 2 completed
+- ✅ Month 1 completed
+- ✅ Month 2 completed
 
