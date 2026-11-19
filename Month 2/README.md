@@ -1,8 +1,12 @@
+<div align="center">
+
 # Data Science Projects: Customer Churn and Netflix
 
 This repository contains two small data-analysis projects. The first looks at
 which customer groups are more likely to leave a telecom provider; the second
 explores the titles listed in a Netflix catalogue snapshot.
+
+</div>
 
 ## What's here
 
